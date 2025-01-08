@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="email">email</string>
+    <string name="name">Имя</string>
+    <string name="post">Должность</string>
+    <string name="link">Ссылка</string>
+    <string name="galery">Галерея</string>
+    <string name="camera">Камера</string>
+    <string name="check_lint">Проверь ссылку</string>
+    <string name="resume">Резюме</string>
+    <string name="url_not_found">URL не найден</string>
+</resources>
